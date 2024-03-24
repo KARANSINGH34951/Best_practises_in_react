@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2{
+margin-bottom: 30px;
+}
+.movie-container{
+  margin: 20px;
+  height: 300px;
+  width: 300px;
+  padding: 15px;
+  background-color: blueviolet;
+}
+
+li{
+  list-style: none;
+}
+

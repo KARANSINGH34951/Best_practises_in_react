@@ -1,0 +1,22 @@
+.colorizer{
+  background-color: burlywood;
+  display: flex;
+  flex-direction:column ;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.colorizer .box{
+  
+  width: 13rem;
+  height: 13rem;
+  padding: 2rem;
+  margin: 2rem;
+  border-radius: 0.3rem;
+  border: 1px solid blue;
+}
+
+.colorizer .box button{
+  cursor: pointer;
+}

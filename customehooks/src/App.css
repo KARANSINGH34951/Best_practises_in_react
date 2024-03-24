@@ -1,0 +1,39 @@
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.find-user{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.find-user > *{
+  margin: 10px;
+}
+
+.result{
+  height: 150px;
+  width: 100px;
+}
+
+.username-container{
+  margin: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.username-container > *{
+  margin: 20px;
+}
+
+.username-container button{
+  padding: 10px;
+  border-radius: 5px;
+}
+
+
