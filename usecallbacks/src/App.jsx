@@ -12,7 +12,6 @@ function App() {
     // const  learning =()=>{
     //     // helo inside a the func
     // }
-
     const learning= useCallback(()=>{
       // using use call back
     },[count])
